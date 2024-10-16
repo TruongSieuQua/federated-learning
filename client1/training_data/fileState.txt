@@ -1,0 +1,2 @@
+C:\projects\python\do_an\ocrr-app\training_data\IvV2y.jpg	1
+C:\projects\python\do_an\ocrr-app\training_data\justifiedtext.jpg	1
